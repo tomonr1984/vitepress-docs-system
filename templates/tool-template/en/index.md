@@ -1,0 +1,33 @@
+# [TOOL_NAME]
+
+[TOOL_DESCRIPTION_EN]
+
+## Overview
+
+[TOOL_OVERVIEW_EN]
+
+## Key Features
+
+- 🚀 **[FEATURE_1_TITLE]**: [FEATURE_1_DESCRIPTION]
+- 🔧 **[FEATURE_2_TITLE]**: [FEATURE_2_DESCRIPTION]
+- 📊 **[FEATURE_3_TITLE]**: [FEATURE_3_DESCRIPTION]
+- 🎯 **[FEATURE_4_TITLE]**: [FEATURE_4_DESCRIPTION]
+
+## Getting Started
+
+[GETTING_STARTED_TEXT_EN]
+
+## Quick Links
+
+- [Installation Guide](installation.md) - [INSTALLATION_DESCRIPTION_EN]
+- [Usage Guide](usage.md) - [USAGE_DESCRIPTION_EN]
+- [API Reference](api.md) - [API_DESCRIPTION_EN]
+- [Troubleshooting](troubleshooting.md) - [TROUBLESHOOTING_DESCRIPTION_EN]
+
+## Use Cases
+
+- **[USE_CASE_1_TITLE]**: [USE_CASE_1_DESCRIPTION]
+- **[USE_CASE_2_TITLE]**: [USE_CASE_2_DESCRIPTION]
+- **[USE_CASE_3_TITLE]**: [USE_CASE_3_DESCRIPTION]
+
+[CLOSING_MESSAGE_EN]

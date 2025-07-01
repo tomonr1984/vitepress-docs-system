@@ -1,0 +1,61 @@
+{
+  "name": "vitepress-docs-system",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A comprehensive documentation management system for custom tools with VitePress, featuring multi-language support and standardized templates",
+  "keywords": [
+    "documentation",
+    "vitepress",
+    "tools",
+    "multi-language",
+    "templates",
+    "claude-code",
+    "markdown",
+    "static-site-generator"
+  ],
+  "homepage": "https://github.com/tomonr1984/vitepress-docs-system#readme",
+  "bugs": {
+    "url": "https://github.com/tomonr1984/vitepress-docs-system/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomonr1984/vitepress-docs-system.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "tomonr1984",
+    "email": "tomonr1984@users.noreply.github.com",
+    "url": "https://github.com/tomonr1984"
+  },
+  "contributors": [
+    {
+      "name": "Community Contributors",
+      "url": "https://github.com/tomonr1984/vitepress-docs-system/graphs/contributors"
+    }
+  ],
+  "engines": {
+    "node": ">=20.11.0",
+    "npm": ">=10.2.4"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "docs:serve": "vitepress serve docs",
+    "lint": "eslint . --ext .ts,.js",
+    "test": "vitest run",
+    "clean": "rm -rf docs/.vitepress/dist docs/.vitepress/cache"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.29.0",
+    "@types/node": "^24.0.3",
+    "eslint": "^9.29.0",
+    "typescript-eslint": "^8.34.1",
+    "vitepress": "^1.6.3",
+    "vitest": "^3.2.4"
+  },
+  "volta": {
+    "node": "20.11.0",
+    "npm": "10.2.4"
+  }
+}
