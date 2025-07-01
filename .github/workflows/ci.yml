@@ -61,5 +61,5 @@ jobs:
 
       - name: Check homepage accessibility
         run: |
-          curl -f http://localhost:4173/ || exit 1
+          curl -f http://localhost:4173/vitepress-docs-system/ || exit 1
           echo "Homepage is accessible"
